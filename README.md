@@ -26,7 +26,7 @@
   
   - Email: mohsinansari1799@gmail.com
   - LinkedIn: www.linkedin.com/in/mohsin--raza
-  - Portfolio: [GitHub Pages or Personal Website]
+  - Portfolio: https://github.com/MohsinR11
 
 - 😄 Pronouns: 
   - He/Him
