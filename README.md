@@ -35,8 +35,6 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 
 
-
-
 📊 Data Analytics & Visualization
 
 
