@@ -16,8 +16,8 @@
 🛠 Tech Stack & Skills
 
 ***Programming & Databases***
-![Python] (https://github.com/stars/MohsinR11/lists/python)  
-![SQL] (https://github.com/stars/MohsinR11/lists/sql-projects)  
+![Python]([https://github.com/stars/MohsinR11/lists/python])  
+![https://github.com/stars/MohsinR11/lists/sql-projects]  
 
 
 ***Data Analytics & Visualization***
