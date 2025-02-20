@@ -16,8 +16,8 @@
 🛠 Tech Stack & Skills
 
 ***Programming & Databases***
-![Python]([https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue](https://github.com/stars/MohsinR11/lists/python))  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)  
+![Python]([https://github.com/stars/MohsinR11/lists/python])  
+![SQL]([https://github.com/stars/MohsinR11/lists/sql-projects])  
 
 
 ***Data Analytics & Visualization***
