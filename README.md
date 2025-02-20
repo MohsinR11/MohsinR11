@@ -12,7 +12,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
     
     
 
-## ***🏆 What I Do?***
+### ***🏆 What I Do?***
 
 
 🎯 Sports Analytics: Analyzing cricket data to predict match outcomes & player performances.
@@ -29,7 +29,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 
 
-## ***🔧 Tech Stack & Skills***
+### ***🔧 Tech Stack & Skills***
 
 🖥️ Programming & Databases
 
@@ -44,14 +44,14 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 
 
-## ***📂 Featured Projects***
+### ***📂 Featured Projects***
 
 
 Here are some of my top data analysis and machine learning projects:
 
 
 
-## ***🏏 T20 World Cup Cricket Analytics***
+### ***🏏 T20 World Cup Cricket Analytics***
 
 
 📌 Tools Used: Python, Web Scraping, Pandas, Power BI
@@ -66,7 +66,7 @@ Selected Top 11 Players based on historical data & probability models.
 
 
 
-## ***📊 GitHub Stats & Achievements***
+### ***📊 GitHub Stats & Achievements***
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%"> </p>
 
