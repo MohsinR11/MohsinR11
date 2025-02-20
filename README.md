@@ -1,4 +1,4 @@
-**👋 Hello, I'm Mohsin Raza!**
+##👋 Hello, I'm Mohsin Raza!
 
 🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
