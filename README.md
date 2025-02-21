@@ -2,6 +2,9 @@
 
 &nbsp;
 
+![Tool Name](https://img.shields.io/badge/Name-Color?style=flat&logo=LogoName&logoColor=white)
+
+
 # **👋 Hello, I'm Mohsin Raza!** &nbsp;
 
 🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer
