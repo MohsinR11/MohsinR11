@@ -1,8 +1,6 @@
 ![Welcome Banner](https://github.com/MohsinR11/MohsinR11/blob/main/banner.gif)
-
 &nbsp;
 
-![Tool Name](https://img.shields.io/badge/Name-Color?style=flat&logo=LogoName&logoColor=white)
 
 
 # **👋 Hello, I'm Mohsin Raza!** &nbsp;
