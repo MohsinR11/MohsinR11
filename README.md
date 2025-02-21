@@ -1,11 +1,24 @@
 
 # **👋 Hello, I'm Mohsin Raza!** &nbsp;
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7920E&size=22&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🚀+Data+Analyst+%7C+Sports+Analytics+Enthusiast;📊+Data+Visualization%2C+SQL%2C+Machine+Learning;🏆 
-&nbsp;  +Freelancer+%7C+Open+to+Collaborations)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7920E&size=22&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🚀+Data+Analyst+%7C+Sports+Analytics+Enthusiast;📊+Data+Visualization%2C+SQL%2C+Machine+Learning;🏆+Freelancer+%7C+Open+to+Collaborations)
 
 &nbsp;
 
+## **📈 GitHub Stats & Streaks**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%" />
+</div>
+
+--- &nbsp;
+
+## **🏆 Trophies & Achievements**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark&column=5" />
+</p>
+
+&nbsp;
 
 🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer &nbsp;
 
