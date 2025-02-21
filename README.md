@@ -100,7 +100,6 @@
 
 Here are some of my top data analysis and machine learning projects:
 
-&nbsp;
 
 ### ***🏏 T20 World Cup Cricket Analytics***
 
@@ -108,8 +107,6 @@ Here are some of my top data analysis and machine learning projects:
 📌 Tools Used: Python, Web Scraping, Pandas, Power BI
 
 
-
-&nbsp;
 ### **📊 Key Insights:**
 Analyzed best batsmen & bowlers using advanced metrics.
 
