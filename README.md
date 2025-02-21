@@ -13,7 +13,8 @@
 &nbsp;
 
 ## **🚀 Contribution Heatmap**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=react-dark&hide_border=true)
+
 
 ---
 
