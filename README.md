@@ -5,18 +5,8 @@
 
 &nbsp;
 
-## **📈 GitHub Stats & Streaks**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%" />
-</div>
-
---- &nbsp;
-
-## **🏆 Trophies & Achievements**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark&column=5" />
-</p>
+🏆 **GitHub Trophy:**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
 
 &nbsp;
 
@@ -26,8 +16,7 @@
 &nbsp;
 
 
-🏆 **GitHub Trophy:**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)  
+  
 
 
 &nbsp;
