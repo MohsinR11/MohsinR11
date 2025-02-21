@@ -42,15 +42,14 @@
 
 ### ***🔧 Tech Stack & Skills***
 
-🖥️ Programming & Databases
+### 📊 Data Analytics & Visualization
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/stars/MohsinR11/lists/power-bi-projects)  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://github.com/stars/MohsinR11/lists/tableau-projects)  
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/stars/MohsinR11/lists/excel-projects)  
 
-
-
-📊 Data Analytics & Visualization
-
-
-
-🏆 Machine Learning & Data Science
+### 🖥️ Programming  
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/stars/MohsinR11/lists/python)  
+[![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)](https://github.com/stars/MohsinR11/lists/sql-projects)  
 
 &nbsp;
 
