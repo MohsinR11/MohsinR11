@@ -5,15 +5,24 @@
 
 &nbsp;
 
-🏆 **GitHub Trophy:**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
 
-&nbsp;
 
 🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer &nbsp;
 
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
 &nbsp;
+
+🏆 **GitHub Trophy:**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
+
+&nbsp;
+
+## **📊 Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinR11&layout=compact&theme=radical" />
+</p>
+
+---  &nbsp;
 
 
 ## **📊 GitHub Stats, Contributions & Heatmaps**
@@ -23,21 +32,11 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=react-dark" width="98%" />
 </div>
 
----
 
-## **🏆 Trophies & Achievements**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark&column=5" />
-</p>
 
 ---
 
-## **📊 Most Used Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinR11&layout=compact&theme=radical" />
-</p>
 
----  
 
 
 &nbsp;
@@ -110,11 +109,6 @@ Selected Top 11 Players based on historical data & probability models.
 &nbsp;
 
 
-### ***📊 GitHub Stats & Achievements***
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%"> </p>
-
-&nbsp;
 
 ### ***📢 How Can We Collaborate?***
 &nbsp;
