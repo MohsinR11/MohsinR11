@@ -12,6 +12,16 @@
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
 &nbsp;
 
+## **🚀 Contribution Heatmap**
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=react-dark&hide_border=true)
+
+---
+
+## **🎵 Music While Coding?**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+
+---
+
 🏆 **GitHub Trophy:**  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
 
