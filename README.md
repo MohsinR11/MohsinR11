@@ -113,3 +113,9 @@ Machine Learning & Predictive Analytics 🤖 (Forecasting, Recommendations)
 ***🎯 "Turning Data into Insights, One Analysis at a Time!"***
 
 ****💬 Let’s discuss ideas, projects, and the future of data analytics! 🚀****
+
+
+📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://mohsinr11.github.io/Mohsin-TheAnalyst.github.io/)  
+
