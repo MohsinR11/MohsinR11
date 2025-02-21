@@ -1,4 +1,5 @@
-![Welcome Banner](https://github.com/MohsinR11/MohsinR11/blob/main/banner.gif)
+[![Welcome Banner](https://github.com/MohsinR11/MohsinR11/blob/main/banner.gif)]
+
 &nbsp;
 
 # **👋 Hello, I'm Mohsin Raza!** &nbsp;
