@@ -5,6 +5,11 @@
 &nbsp;
 
 
+🏆 **GitHub Trophy:**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)  
+
+
+&nbsp;
 ## **🌟 About Me**
 
         I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting valuable insights from complex datasets. 
