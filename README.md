@@ -4,6 +4,7 @@
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
 &nbsp;
 
+
 ## **🌟 About Me**
 
 I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting valuable insights from complex datasets. With a strong background in SQL, Power BI, Tableau, Python, and Machine Learning, I specialize in data-driven decision-making for businesses and sports teams.
@@ -11,6 +12,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
     💡 My mission? To leverage data storytelling & analytics to uncover trends, optimize strategies, and predict outcomes in sports, e-commerce, and finance.
     
     &nbsp;
+    
 
 ### ***🏆 What I Do?***
 
@@ -28,6 +30,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 🏆 Freelancing & Collaborations: Working with businesses & individuals on analytics projects.
 
 &nbsp;
+
 
 ### ***🔧 Tech Stack & Skills***
 
@@ -56,6 +59,8 @@ Here are some of my top data analysis and machine learning projects:
 
 📌 Tools Used: Python, Web Scraping, Pandas, Power BI
 &nbsp;
+
+
 ### **📊 Key Insights:**
 Analyzed best batsmen & bowlers using advanced metrics.
 
