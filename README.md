@@ -3,7 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7920E&size=22&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🚀+Data+Analyst+%7C+Sports+Analytics+Enthusiast;📊+Data+Visualization%2C+SQL%2C+Machine+Learning;🏆+Freelancer+%7C+Open+to+Collaborations)
 
-🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer
+🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer &nbsp;
+
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
 &nbsp;
 
