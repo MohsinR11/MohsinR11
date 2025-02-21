@@ -1,8 +1,8 @@
-# **👋 Hello, I'm Mohsin Raza!**
+# **👋 Hello, I'm Mohsin Raza!** &nbsp;
 
 🚀 Data Analyst | Sports Analytics Enthusiast | Freelancer
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
-
+&nbsp;
 
 ## **🌟 About Me**
 
@@ -10,7 +10,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
     💡 My mission? To leverage data storytelling & analytics to uncover trends, optimize strategies, and predict outcomes in sports, e-commerce, and finance.
     
-    
+    &nbsp;
 
 ### ***🏆 What I Do?***
 
@@ -27,7 +27,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 🏆 Freelancing & Collaborations: Working with businesses & individuals on analytics projects.
 
-
+&nbsp;
 
 ### ***🔧 Tech Stack & Skills***
 
@@ -41,7 +41,7 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 🏆 Machine Learning & Data Science
 
-
+&nbsp;
 
 
 ### ***📂 Featured Projects***
@@ -49,31 +49,31 @@ I’m a Data Analyst & Sports Analytics Enthusiast with expertise in extracting 
 
 Here are some of my top data analysis and machine learning projects:
 
-
+&nbsp;
 
 ### ***🏏 T20 World Cup Cricket Analytics***
 
 
 📌 Tools Used: Python, Web Scraping, Pandas, Power BI
-
-📊 Key Insights:
+&nbsp;
+### **📊 Key Insights:**
 Analyzed best batsmen & bowlers using advanced metrics.
 
 Built a Power BI dashboard for real-time team performance tracking.
 
 Selected Top 11 Players based on historical data & probability models.
 
-
+&nbsp;
 
 
 ### ***📊 GitHub Stats & Achievements***
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%"> </p>
 
-
+&nbsp;
 
 ### ***📢 How Can We Collaborate?***
-
+&nbsp;
 
 🚀 I’m always looking for new opportunities & collaborations in:
 
@@ -84,11 +84,11 @@ Business Intelligence 🏢 (Sales, Marketing, Finance Analytics)
 
 Machine Learning & Predictive Analytics 🤖 (Forecasting, Recommendations)
 
-
+&nbsp;
 
 ### ***💡 Have an idea or project? Let's connect & build something amazing together!***
 
-
+&nbsp;
 ### **📫 Let's Connect!**
 
 
