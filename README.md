@@ -98,7 +98,7 @@
 ### ***📂 Featured Projects***
 
 
-Here are some of my top data analysis and machine learning projects:
+Here is my top data analysis and machine learning project:
 
 
 ### ***🏏 T20 World Cup Cricket Analytics***
