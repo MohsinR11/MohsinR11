@@ -36,17 +36,6 @@
 ---  &nbsp;
 
 
-## **📊 GitHub Stats, Contributions & Heatmaps**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" width="48%" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=react-dark" width="98%" />
-</div>
-
-
-
----
-
 
 
 
