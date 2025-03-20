@@ -135,10 +135,10 @@ Machine Learning & Predictive Analytics 🤖 (Forecasting, Recommendations)
 
 ****💬 Let’s discuss ideas, projects, and the future of data analytics! 🚀****
 
-****📊 [![GitHub followers](https://img.shields.io/github/followers/MohsinR11?style=social)](https://github.com/MohsinR11)  🚀****
 
 
-📫 **Let's Connect!**  
+📫 **Let's Connect!**   ****📊 [![GitHub followers](https://img.shields.io/github/followers/MohsinR11?style=social)](https://github.com/MohsinR11)  🚀****
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://mohsinr11.github.io/Mohsin-TheAnalyst.github.io/)  
 
