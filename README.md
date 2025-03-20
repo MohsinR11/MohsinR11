@@ -135,7 +135,7 @@ Machine Learning & Predictive Analytics 🤖 (Forecasting, Recommendations)
 
 ****💬 Let’s discuss ideas, projects, and the future of data analytics! 🚀****
 
-****📊 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/MohsinR11)  🚀****
+****📊 [![GitHub followers](https://img.shields.io/github/followers/MohsinR11?style=social)](https://github.com/MohsinR11)  🚀****
 
 
 📫 **Let's Connect!**  
