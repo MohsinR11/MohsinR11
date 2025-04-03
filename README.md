@@ -48,16 +48,6 @@
 
 ---
 
-## 🎵 Music While Coding  
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://novatorem.vercel.app/api/spotify" />
-  </a>
-</p>
-
-🎧 **Music fuels my focus!** Check out my **coding playlist** on **Spotify!** 🎶  
-
----
 
 ## 📣 Let's Connect!  
 <p align="center">
