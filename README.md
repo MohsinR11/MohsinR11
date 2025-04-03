@@ -12,32 +12,6 @@
 📊 Passionate about Data Analytics, Machine Learning, SQL, Power BI, and Sports Data Science
 &nbsp;
 
-## **🚀 Contribution Heatmap**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=react-dark&hide_border=true)
-
-
----
-
-## **🎵 Music While Coding?**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
----
-
-🏆 **GitHub Trophy:**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
-
-&nbsp;
-
-## **📊 Most Used Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinR11&layout=compact&theme=radical" />
-</p>
-
-  &nbsp;
-
-
-
-
 
 &nbsp;
 ## **🌟 About Me**
@@ -67,7 +41,31 @@
 
 🏆 Freelancing & Collaborations: Working with businesses & individuals on analytics projects.
 
+
 &nbsp;
+## **🚀 Contribution Heatmap**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=react-dark&hide_border=true)
+
+
+---
+
+## **🎵 Music While Coding?**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+
+---
+
+🏆 **GitHub Trophy:**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=onedark)
+
+&nbsp;
+
+## **📊 Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinR11&layout=compact&theme=radical" />
+</p>
+
+  &nbsp;
+
 
 
 ### ***🔧 Tech Stack & Skills***
