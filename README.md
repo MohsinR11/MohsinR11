@@ -1,24 +1,58 @@
 # Hey there! 👋  
-🚀 **Step into My Data Universe!** 🌍  
+🚀 **Welcome to My Data Universe!** 🌍  
 
-I'm **Mohsin Raza**, a **Data Analyst & Sports Analytics Enthusiast** who thrives on transforming numbers into insights. Whether it’s **predicting match outcomes**, uncovering hidden trends, or crafting **visually stunning dashboards**, I love making data tell compelling stories.  
+I'm **Mohsin Raza**, a **Data Analyst & Sports Analytics Enthusiast** who thrives on **decoding data, predicting trends, and crafting compelling insights**. I specialize in **sports analytics, business intelligence, and data-driven storytelling** to make numbers speak! 📊✨  
 
-## 🔍 What I Do:
-- 🏏 **Sports Analytics:** Breaking down cricket data to predict match winners & top performers  
-- 📊 **Data Visualization:** Designing interactive dashboards using Power BI & Tableau  
-- 🔍 **Data Wrangling & Analysis:** Cleaning, transforming, and making sense of complex datasets  
-- ⚡ **SQL & Python Magic:** Writing optimized queries, automating reports & exploring machine learning for analytics  
-- 🤖 **Predictive Modeling:** Exploring AI-driven insights for sports & business decision-making  
+---
 
-## 🛠 Tech Stack:
-- **📝 Languages:** Python, SQL  
-- **📊 Visualization:** Power BI, Tableau, Matplotlib  
-- **📂 Data Handling:** Pandas, NumPy, Excel  
-- **🗄️ Databases:** MySQL, PostgreSQL, SQL Server  
+## 🌟 **About Me**
+- 🔍 Passionate about **Data Science, Machine Learning & Sports Analytics**  
+- 📈 Turning **complex datasets into actionable insights & visual storytelling**  
+- 🏏 Cricket + Data = **Predicting match outcomes & player performances**  
+- 🎯 Always **learning, optimizing, and building impactful projects**  
 
-## 🚀 Fun Facts About Me:
-- 🔎 I see datasets as **mysteries waiting to be solved**—every number has a story!  
-- 📖 I believe **data is the ultimate game-changer**, whether in sports, business, or beyond  
-- ⚡ Always exploring **new tools & techniques** to push the boundaries of data analytics  
+---
 
-💡 **Let’s connect and geek out over data, cricket, and cool insights!** 🚀  
+## 🔥 **What I Do**
+📊 **Data Visualization** → Interactive dashboards with Power BI & Tableau  
+🏏 **Sports Analytics** → Analyzing cricket data to predict match-winners & player impact  
+🔍 **Data Wrangling** → Cleaning & transforming raw data into gold!  
+🛠 **SQL & Python Mastery** → Writing optimized queries & automating pipelines  
+🤖 **Predictive Analytics** → Leveraging **AI/ML** to forecast business & sports trends  
+
+---
+
+## 🚀 **Tech Stack & Tools**
+📝 **Languages:** Python, SQL  
+📊 **Visualization:** Power BI, Tableau, Matplotlib  
+📂 **Data Handling:** Pandas, NumPy, Excel  
+🗄️ **Databases:** MySQL, PostgreSQL, SQL Server  
+💻 **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle  
+
+---
+
+## 🏆 **GitHub Achievements**
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=false&no-bg=false&margin-w=5)  
+
+---
+
+## 📊 **GitHub Stats & Activity**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical)  
+![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=react-dark)  
+
+---
+
+## 🎶 **Music While Coding**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)  
+
+🎧 **Love coding with music?** Check out my playlist to boost productivity!  
+
+---
+
+## 🎯 **Fun Facts About Me**
+- 🔎 I see datasets as **puzzles waiting to be solved**!  
+- 📖 Numbers tell **stories**—I love uncovering hidden insights!  
+- ⚡ Always exploring **new tools & techniques** in Data Analytics!  
+
+🚀 **Let’s connect and explore the world of data together!**  
