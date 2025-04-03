@@ -5,16 +5,18 @@
 
 I'm **Mohsin Raza**, a **Data Analyst & Sports Analytics Enthusiast** who loves turning raw data into powerful insights. Whether it’s **predicting match outcomes**, uncovering hidden trends, or crafting **visually compelling dashboards**, I thrive on making data tell a story.
 
-🔍 What I Do:
-🏏 Sports Analytics: Breaking down cricket data to predict match winners & top performers
+### **🔍 What I Do:**
 
-📊 Data Visualization: Designing interactive dashboards with Power BI & Tableau
+**🏏 Sports Analytics:** Breaking down cricket data to predict match winners & top performers
 
-🔍 Data Wrangling & Analysis: Cleaning, transforming, and making sense of complex datasets
+**📊 Data Visualization:** Designing interactive dashboards with Power BI & Tableau
 
-⚡ SQL & Python Magic: Writing optimized queries, automating reports & exploring machine learning for analytics
+**🔍 Data Wrangling & Analysis:** Cleaning, transforming, and making sense of complex datasets
 
-🤖 Predictive Modeling: Exploring AI-driven insights for sports & business decision-making
+**⚡ SQL & Python Magic:** Writing optimized queries, automating reports & exploring machine learning for analytics
+
+**🤖 Predictive Modeling:** Exploring AI-driven insights for sports & business decision-making
+
 
 🛠 Tech Stack:
 Languages: Python, SQL
