@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! 👋 I'm Mohsin Raza </h1>
-<h3 align="center"> Data Analyst | Sports Analytics Enthusiast | SQL & Python Expert </h3>
+<h3 align="center"> Data Analyst | Sports Analytics Enthusiast | SQL, Python & BI Tools Expert </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+BI;Data+Driven+Decision+Making!;Always+Learning+%7C+Always+Evolving!" />
