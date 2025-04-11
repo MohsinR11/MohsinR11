@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack & Tools  
 💻 **Languages:** Python, SQL  
-📊 **Data Visualization:** Power BI, Tableau, Matplotlib  
+📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib  
 📂 **Data Handling:** Pandas, NumPy, Excel  
 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server  
 ⚙️ **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle  
