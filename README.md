@@ -20,8 +20,8 @@
 ---
 
 ## 🛠 Tech Stack & Tools  
-- 💻 **Languages:** Python, SQL  
-- 📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib, PySpark, Seaborn
+- 💻 **Languages:** Python, SQL, PySpark  
+- 📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib, Seaborn
 - 📂 **Data Handling:** Pandas, NumPy, Excel  
 - 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server  
 - ⚙️ **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle, Power Apps
@@ -29,14 +29,6 @@
 ---
 
 ## 🏆 GitHub Achievements & Contributions  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=dark&hide_border=false" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" />
