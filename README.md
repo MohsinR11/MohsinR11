@@ -21,10 +21,10 @@
 
 ## 🛠 Tech Stack & Tools  
 - 💻 **Languages:** Python, SQL  
-- 📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib  
+- 📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib, PySpark, Seaborn
 - 📂 **Data Handling:** Pandas, NumPy, Excel  
 - 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server  
-- ⚙️ **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle  
+- ⚙️ **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle, Power Apps
 
 ---
 
