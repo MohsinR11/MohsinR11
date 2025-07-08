@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.zapfolio.in/mohsinraza-ob">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F25746872-portfolio-button-speech-bubble-banner-label-portfolio&psig=AOvVaw0nw3QXvxA2gcH4hY4SfrLX&ust=1752074197317000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi9tpvHrY4DFQAAAAAdAAAAABBE" />
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=Portfolio&logoColor=black" />
   </a>
 </p>
 
