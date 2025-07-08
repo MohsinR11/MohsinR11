@@ -48,11 +48,11 @@
   <a href="https://www.linkedin.com/in/mohsin--raza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohsinansari1799@gmail.com.com">
+  <a href="mailto:mohsinansari1799@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.zapfolio.in/mohsinraza-ob">
-    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=Portfolio&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=Portfolio&logoColor=black" />
   </a>
 </p>
 
