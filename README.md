@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! 👋 I'm Mohsin Raza </h1>
-<h3 align="center"> Data Analyst | Sports Analytics Enthusiast | SQL, Python & BI Tools Expert </h3>
+<h3 align="center"> Data Analyst | Sports Analytics Enthusiast | Data Engineering | SQL, Python & BI Tools Expert </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+BI;Data+Driven+Decision+Making!;Always+Learning+%7C+Always+Evolving!" />
@@ -8,13 +8,14 @@
 ---
 
 ## 🚀 About Me  
-🎯 I’m a **passionate data analyst** who loves **uncovering hidden insights, predicting trends, and making numbers tell compelling stories.** Whether it's **cricket analytics, business intelligence, or predictive modeling,** I thrive on making data work smarter!  
+🎯 I’m a **passionate data enthusiast** who loves **uncovering hidden insights, predicting trends, and making numbers tell compelling stories.** Whether it's **cricket analytics, business intelligence, or predictive modeling,** I thrive on making data work smarter!  
 
 🔥 **Specialized in:**  
 - 📊 **Interactive dashboards & visualizations** with Power BI & Tableau  
 - 🏏 **Sports Analytics:** Predicting match-winners & player performance  
 - 🔍 **Data Wrangling & Transformation:** Turning raw data into actionable insights  
-- ⚡ **SQL & Python Automation:** Writing optimized queries & automating workflows  
+- ⚡ **SQL & Python Automation:** Writing optimized queries & automating workflows
+- 🛠️ **Data Engineering:** Building scalable data pipelines & managing data infrastructure
 - 🤖 **Machine Learning:** Exploring AI-driven insights for business & sports  
 
 ---
@@ -23,7 +24,8 @@
 - 💻 **Languages:** Python, SQL, PySpark  
 - 📊 **Data Visualization:** Excel, Power BI, Tableau, Matplotlib, Seaborn
 - 📂 **Data Handling:** Pandas, NumPy, Excel  
-- 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server  
+- 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server
+- 🔧 **Data Engineering:** ETL pipelines, Data Warehousing, PySpark
 - ⚙️ **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle, Power Apps
 
 ---
