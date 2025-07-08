@@ -30,15 +30,12 @@
 
 ---
 
-## 🏆 GitHub Achievements & Contributions  
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=react-dark" />
-</p>
 
 ---
 
