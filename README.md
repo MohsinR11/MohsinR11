@@ -1,73 +1,63 @@
-<h1 align="center">Hey there! 👋 I'm Mohsin Raza</h1>
-<h3 align="center">Data Analyst ⚡ Sports Analytics Enthusiast ⚡ Tech Content Creator</h3>
+<h1 align="center">Hi there 👋, I'm Mohsin Raza</h1>
+
+<h3 align="center">📊 Data Analyst | ⚡ Sports Analytics Enthusiast | 🧩 Data Engineer | ✍️ Tech Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=800&lines=Turning+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;Tech+Content+Creator+%7C+Data+Storyteller;Helping+Data+Professionals+Grow+Every+Day;Always+Learning+%7C+Always+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
 </p>
 
 ---
 
-## 🌟 Who Am I?
+## 🌟 About Me
 
-Hi! I’m Mohsin — a **results-driven Data Analyst** with a love for **sports stats**, **business intelligence**, and helping others **grow in data**.  
-I believe every dataset hides a story, and I’m here to tell it — with **clear dashboards**, **powerful models**, and **actionable insights**.
+✨ **Data Storyteller:** I uncover hidden insights, turn complexity into clarity, and help teams make decisions with confidence.
 
----
+🏏 **Sports Fanatic:** I love decoding sports stats to predict match-winners, player performances, and game-changing moments.
 
-## 💡 What Drives Me
+✍️ **Content Creator:** Sharing tips & tutorials that help early-career data professionals level up — faster, smarter.
 
-- 🔍 **Turning complex data into clear decisions**
-- 🏏 **Predicting match-winners & player performances**
-- ⚡ **Building smart automations with SQL & Python**
-- ✍️ **Creating content to help early-career data folks level up**
-- 🚀 **Always learning, building & sharing**
+🚀 **Always Evolving:** Curious mind. Clean code. Better every day.
 
 ---
 
-## 🛠️ My Data Toolbox
+## ⚡ What I Love to Build
 
-**Languages & Frameworks:**  
-`Python` · `SQL` · `PySpark`
-
-**Visualization:**  
-`Power BI` · `Tableau` · `Excel` · `Matplotlib` · `Seaborn`
-
-**Data Handling:**  
-`Pandas` · `NumPy` · `ETL Pipelines` · `Data Warehousing`
-
-**Databases:**  
-`MySQL` · `PostgreSQL` · `SQL Server`
-
-**Tools & Platforms:**  
-`Jupyter Notebook` · `VS Code` · `Kaggle` · `Power Apps`
+- 📊 **Interactive Dashboards:** Power BI, Tableau, Excel
+- 🏆 **Sports Analytics Projects:** Match predictions, performance metrics
+- 🔄 **Automations:** SQL + Python for smart workflows
+- 🔍 **Data Engineering Pipelines:** ETL, big data wrangling
+- 🤖 **ML Experiments:** AI insights for sports & business
+- 📚 **Tutorials & Templates:** For the data community
 
 ---
 
-## 📊 My GitHub In Numbers
+## 🧰 Tech Stack
+
+**Languages:** `Python` | `SQL` | `PySpark`  
+**Databases:** `MySQL` | `PostgreSQL` | `SQL Server`  
+**Visualization:** `Power BI` | `Tableau` | `Matplotlib` | `Seaborn`  
+**Data Handling:** `Pandas` | `NumPy` | `ETL Pipelines`  
+**Tools:** `VS Code` | `Jupyter Notebook` | `Kaggle` | `Power Apps`
+
+---
+
+## 📈 GitHub By The Numbers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohsinR11&color=00BFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohsinR11&label=Profile%20Views&color=00BFFF" alt="Profile Views" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" alt="Contribution Streak" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect!
+## 💬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohsin--raza/" target="_blank">
@@ -82,6 +72,5 @@ I believe every dataset hides a story, and I’m here to tell it — with **clea
 </p>
 
 <p align="center">
-✨ **I’m always open to collaborations, freelance gigs, and exciting data challenges.  
-Let’s unlock the power of data together! 🚀**
+  ⚡ **Ready to collaborate on data-driven projects, freelance work, or fresh ideas? Let’s turn raw data into real impact — together! 🚀**
 </p>
