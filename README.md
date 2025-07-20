@@ -7,7 +7,16 @@
 
 ---
 
-## 🚀 About Me  
+## 🌟 A Little More About Me
+
+- 🔍 **I see every dataset as a story waiting to be told**
+- ⚡ **I thrive on simplifying complex problems through smart automation**
+- ✍️ **I share practical insights to help new data professionals grow faster**
+- 🧩 **Curious by nature — always learning, always creating, always evolving**
+
+---
+
+## 🚀 What I Do  
 🎯 I’m a **data storyteller** passionate about turning raw data into **actionable strategies**. From **cricket analytics** to **business intelligence**, I help teams **unlock real value** from their data to make better, faster decisions.
 
 🔥 **What I Do Best:**  
@@ -38,6 +47,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=gruvbox" alt="GitHub Trophies"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 📊 Contribution Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" alt="Contribution Streak"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph"/>
 </p>
 
 ---
