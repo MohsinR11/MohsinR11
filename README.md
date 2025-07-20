@@ -30,6 +30,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=MohsinR11)
+
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=MohsinR11&color=blue)
+
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
