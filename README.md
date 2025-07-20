@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  ⚡ **Ready to collaborate on data-driven projects, freelance work, or fresh ideas? Let’s turn raw data into real impact - together! 🚀**
+  ⚡ Ready to collaborate on data-driven projects, freelance work, or fresh ideas? Let’s turn raw data into real impact - together! 🚀
 </p>
