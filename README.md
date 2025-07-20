@@ -55,8 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" alt="Contribution Streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph"/>
 </p>
 
 ---
