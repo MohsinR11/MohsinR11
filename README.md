@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohsin Raza</h1>
 
-<h3 align="center">📊 Data Analyst | ⚡ Sports Analytics Enthusiast | 🧩 Data Engineer | ✍️ Tech Content Creator</h3>
+<h3 align="center">📊 Data Analyst | ⚡ Sports Analytics Enthusiast | 🧩 Power BI/SQL/Python Expert | ✍️ Tech Content Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
@@ -14,7 +14,7 @@
 
 🏏 **Sports Fanatic:** I love decoding sports stats to predict match-winners, player performances, and game-changing moments.
 
-✍️ **Content Creator:** Sharing tips & tutorials that help early-career data professionals level up — faster, smarter.
+✍️ **Content Creator:** Sharing tips & tutorials that help early-career data professionals level up - faster, smarter.
 
 🚀 **Always Evolving:** Curious mind. Clean code. Better every day.
 
@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  ⚡ **Ready to collaborate on data-driven projects, freelance work, or fresh ideas? Let’s turn raw data into real impact — together! 🚀**
+  ⚡ **Ready to collaborate on data-driven projects, freelance work, or fresh ideas? Let’s turn raw data into real impact - together! 🚀**
 </p>
