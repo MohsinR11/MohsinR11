@@ -64,7 +64,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph"/>
 </p>
 
 ---
