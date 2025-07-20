@@ -57,19 +57,3 @@
 </p>
 
 ✨ **Open to exciting collaborations, freelance gigs, and impactful data projects. Let’s make data work for us!**
-
----
-
-## 📚 References & Best Practices Used
-
-- [GitHub Profile README Guide — GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
-- [Best Practices for a GitHub README — freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [Effective README Examples — GitHub Community](https://github.com/matiassingers/awesome-readme)
-
----
-
-**Tip:** Keep your trophies, views, and stats *above the fold* to immediately showcase your activity. Also, align your branding (colors, badges) with your LinkedIn and portfolio for professional consistency ([Source](https://www.aleksandrhovhannisyan.com/blog/github-profile-readme-template-examples/)).
-
-If you’d like, I can design you a **custom badge**, **animated GIF**, or help you tweak colors/fonts for a stronger personal brand. Just say **“yes”** and I’ll prepare it!
-
-Would you like the final version as a `.md` file? 🚀
