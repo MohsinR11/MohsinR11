@@ -35,9 +35,9 @@
 
 **Languages:** `Python` | `SQL` | `PySpark`  
 **Databases:** `MySQL` | `PostgreSQL` | `SQL Server`  
-**Visualization:** `Power BI` | `Tableau` | `Matplotlib` | `Seaborn`  
+**Visualization:** `Power BI` | `Tableau` | `Matplotlib` | `Seaborn` | `Excel`
 **Data Handling:** `Pandas` | `NumPy` | `ETL Pipelines`  
-**Tools:** `VS Code` | `Jupyter Notebook` | `Kaggle` | `Power Apps`
+**Tools:** `VS Code` | `Jupyter Notebook` | `Kaggle` | `Power Apps` | `Microsoft Fabric`
 
 ---
 
