@@ -12,7 +12,7 @@
 - 🔍 **I see every dataset as a story waiting to be told**
 - ⚡ **I thrive on simplifying complex problems through smart automation**
 - ✍️ **I share practical insights to help new data professionals grow faster**
-- 🧩 **Curious by nature — always learning, always creating, always evolving**
+- 🧩 **Curious by nature - always learning, always creating, always evolving**
 
 ---
 
@@ -81,4 +81,4 @@
   </a>
 </p>
 
-✨ **Open to collaborations, freelance gigs, and impactful data projects — let’s make data work for us!**
+✨ **Open to collaborations, freelance gigs, and impactful data projects - let’s make data work for us!**
