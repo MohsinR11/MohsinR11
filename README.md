@@ -61,6 +61,14 @@
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph"/>
+</p>
+
+---
+
 ## 🤝 Let’s Connect & Collaborate!
 
 <p align="center">
