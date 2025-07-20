@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohsinR11&label=Profile%20Views&color=00BFFF" alt="Profile Views" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
