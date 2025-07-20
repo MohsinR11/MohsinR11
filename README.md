@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! 👋 I'm Mohsin Raza </h1>
-<h3 align="center"> Data Analyst | SQL, Python & BI Specialist | Data Engineer | Sports Analytics Enthusiast </h3>
+<h3 align="center"> Data Analyst | Sports Analytics Enthusiast | Data Engineer | SQL, Python & BI Specialist </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;Data-Driven+Decisions+that+Matter!;Lifelong+Learner+%7C+Problem+Solver+%7C+Team+Player!" />
@@ -8,15 +8,15 @@
 ---
 
 ## 🚀 About Me  
-🎯 I’m a **data-driven storyteller** passionate about **turning complex data into actionable insights and strategies**. From **cricket analytics** to **business intelligence**, I love helping organizations **unlock the true value of their data** and make winning decisions.
+🎯 I’m a **data storyteller** passionate about turning raw data into **actionable strategies**. From **cricket analytics** to **business intelligence**, I help teams **unlock real value** from their data to make better, faster decisions.
 
 🔥 **What I Do Best:**  
-- 📊 **Interactive Dashboards & Visuals:** Craft clear, impactful reports with **Power BI** & **Tableau**
-- 🏏 **Sports Analytics:** Predict match outcomes & analyze player performance trends
-- 🔍 **Data Wrangling & Cleaning:** Transform messy data into clean, reliable datasets
-- ⚡ **SQL & Python Automation:** Build robust queries & automate repetitive workflows
-- 🛠️ **Data Engineering:** Design scalable **ETL pipelines** & manage modern data infrastructure
-- 🤖 **Machine Learning Experiments:** Prototype AI solutions for business and sports contexts
+- 📊 **Interactive Dashboards & Reports:** Power BI, Tableau
+- 🏏 **Sports Analytics:** Predicting outcomes, analyzing player stats
+- 🔍 **Data Cleaning & Wrangling:** Delivering reliable datasets
+- ⚡ **SQL & Python Automation:** Efficient queries, smart workflows
+- 🛠️ **Data Engineering:** ETL pipelines & scalable infrastructure
+- 🤖 **Machine Learning Experiments:** AI for sports & business cases
 
 ---
 
@@ -33,7 +33,7 @@
 ## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohsinR11&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohsinR11&color=00BFFF" alt="Profile Views"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=gruvbox" alt="GitHub Trophies"/>
   <br/>
@@ -56,4 +56,4 @@
   </a>
 </p>
 
-✨ **Open to exciting collaborations, freelance gigs, and impactful data projects. Let’s make data work for us!**
+✨ **Open to collaborations, freelance gigs, and impactful data projects — let’s make data work for us!**
