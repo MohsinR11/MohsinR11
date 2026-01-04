@@ -54,13 +54,13 @@
 ## 💬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohsin--raza/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohsinraza-data/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohsinansari1799@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.zapfolio.in/mohsinraza-ob" target="_blank">
+  <a href="https://mohsin-raza-portfolio.vise.page/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
