@@ -18,23 +18,18 @@
 
 ## 🎯 About Me
 
-I'm a **data analyst** and **business intelligence specialist** who transforms raw data into strategic insights that drive business decisions. From building executive dashboards that stakeholders actually use, to uncovering profit leakage in operations, I bridge the gap between **data, business strategy, and actionable outcomes**.
+I'm a **Data Analyst** and **Business Intelligence Specialist** who transforms raw data into strategic insights that drive measurable business outcomes. I specialize in building executive dashboards, uncovering hidden revenue opportunities, and translating complex data patterns into actionable recommendations that impact the bottom line.
 
-```python
-mohsin = {
-    "role": "Data Analyst | BI Specialist | Business Analyst",
-    "expertise": ["Business Intelligence", "Data Visualization", "SQL Analytics"],
-    "currently_learning": ["Advanced DAX", "Financial Analytics"],
-    "fun_fact": "I can predict IPL match winners better than most pundits 🏏",
-    "philosophy": "Clean data, clear insights, confident decisions"
-}
-```
+**My Approach:**
+- 🎯 **Business-First Mindset** – I don't just analyze data; I solve business problems
+- 📊 **Visual Storytelling** – Turning numbers into narratives that stakeholders understand and act upon
+- 💡 **Data-Driven Strategy** – Every insight connects directly to business KPIs and goals
+- 🔍 **Detail-Oriented** – Clean queries, accurate analysis, reliable results
 
-**What drives me:**
-- 📊 **Business Impact** – Building solutions that drive revenue and reduce costs
-- 🎯 **Strategic Insights** – Turning complex data into executive-ready recommendations
-- 📈 **Dashboard Excellence** – Creating Power BI reports that tell compelling stories
-- 🚀 **Continuous Learning** – Always refining skills to deliver more value
+**Core Competencies:**
+- SQL & Database Analysis | Power BI Development | Business Requirements Analysis
+- Customer Analytics & Segmentation | Financial Metrics & KPI Tracking
+- Dashboard Design & Data Visualization | Cohort & Retention Analysis
 
 ---
 
@@ -42,38 +37,42 @@ mohsin = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Business Intelligence
-- Built **20+ executive dashboards** in Power BI & Tableau
-- Automated reporting workflows saving **15+ hours/week**
-- Delivered insights that drove **measurable business outcomes**
+- Designed and deployed **20+ interactive dashboards** in Power BI
+- Automated weekly reporting workflows, saving **15+ hours** per week
+- Created executive dashboards tracking revenue, costs, and operational KPIs
+- Built self-service BI solutions for cross-functional teams
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Data Analysis
-- Performed **customer lifecycle & cohort analysis**
-- Identified **profit leakage** through unit economics analysis
-- Created **retention & churn models** with actionable insights
+- Performed **cohort analysis** to track customer behavior over time
+- Conducted **unit economics analysis** to identify profit optimization opportunities
+- Analyzed **retention patterns** and developed churn prediction frameworks
+- Delivered **SQL-based insights** from complex multi-table datasets
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Business Analysis
-- Translated business requirements into **data solutions**
-- Conducted **root cause analysis** for operational issues
-- Delivered **KPI tracking systems** for decision-makers
+- Translated stakeholder requirements into **data-driven solutions**
+- Conducted **root cause analysis** for business performance issues
+- Created **KPI frameworks** aligned with business objectives
+- Presented insights to leadership with **clear recommendations**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏏 Sports Analytics
-- Created **match prediction models** with 75%+ accuracy
-- Analyzed player performance metrics across formats
-- Published data-driven sports insights
+### 💡 Technical Expertise
+- Advanced **SQL** for complex queries and database optimization
+- **Power BI** development with DAX measures and custom visualizations
+- **Python** for data manipulation, analysis, and automation
+- **Excel** power user with advanced formulas, pivot tables, and VBA
 
 </td>
 </tr>
@@ -133,16 +132,13 @@ mohsin = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 💰 **[E-Commerce Unit Economics & Profit Leakage](https://github.com/MohsinR11/profit-leakage-and-true-unit-economics)** | End-to-end analysis uncovering hidden profit leaks in e-commerce operations | SQL, Power BI, DAX |
-| 📈 **[Customer Lifecycle Analytics](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics)** | Complete customer journey analysis with retention, cohort & LTV metrics | Python, Power BI, Pandas |
-| 🔄 **[Customer Retention & Churn Analysis](https://github.com/MohsinR11/customer-retention-churn-root-cause-analysis)** | Root cause analysis identifying key churn drivers and retention strategies | SQL, Python, Visualization |
-| 🏏 **IPL Match Predictor** | ML model predicting match outcomes with 75%+ accuracy | Python, Scikit-learn, Pandas |
+| Project | Business Impact | Tech Stack |
+|---------|----------------|------------|
+| 💰 **[E-Commerce Unit Economics Analysis](https://github.com/MohsinR11/profit-leakage-and-true-unit-economics)** | Identified hidden profit leakage points and optimized unit economics across product lines | SQL, Power BI, DAX |
+| 📈 **[Customer Lifecycle Analytics](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics)** | Built comprehensive customer journey framework with LTV prediction and retention metrics | Python, Power BI, Pandas |
+| 🔄 **[Churn Analysis & Prevention](https://github.com/MohsinR11/customer-retention-churn-root-cause-analysis)** | Conducted root cause analysis identifying key churn drivers with actionable retention strategies | SQL, Python, Visualization |
 
 </div>
-
-> 💡 **Currently Building:** Advanced sports analytics platform with real-time data ingestion
 
 ---
 
