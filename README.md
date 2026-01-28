@@ -2,9 +2,9 @@
 
 # 👋 Mohsin Raza
 
-### Data Analyst | Business Intelligence Specialist | Tech Content Creator
+### Data Analyst | Business Intelligence Specialist | Power BI Developer | Business Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Sports+Analytics+%7C+BI+%7C+ML;Building+Dashboards+that+Drive+Decisions;Empowering+Data+Professionals+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Building+Dashboards+that+Drive+Decisions;Business+Intelligence+%7C+Power+BI+%7C+SQL;Turning+Complex+Data+into+Clear+Strategy" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohsin-raza-portfolio.vise.page/)
@@ -18,23 +18,23 @@
 
 ## 🎯 About Me
 
-I'm a **data analyst** who believes every dataset tells a story—and I'm here to decode it. From building interactive dashboards that executives actually use, to crunching sports stats that predict game outcomes, I thrive at the intersection of **data, business strategy, and storytelling**.
+I'm a **data analyst** and **business intelligence specialist** who transforms raw data into strategic insights that drive business decisions. From building executive dashboards that stakeholders actually use, to uncovering profit leakage in operations, I bridge the gap between **data, business strategy, and actionable outcomes**.
 
 ```python
 mohsin = {
-    "role": "Data Analyst & BI Specialist",
-    "passion": ["Sports Analytics", "Data Visualization", "Teaching"],
-    "currently_learning": ["Advanced Machine Learning", "Cloud Data Engineering"],
+    "role": "Data Analyst | BI Specialist | Business Analyst",
+    "expertise": ["Business Intelligence", "Data Visualization", "SQL Analytics"],
+    "currently_learning": ["Advanced DAX", "Financial Analytics"],
     "fun_fact": "I can predict IPL match winners better than most pundits 🏏",
     "philosophy": "Clean data, clear insights, confident decisions"
 }
 ```
 
 **What drives me:**
-- 📊 **Impact over activity** – Building dashboards that change how teams operate
-- 🏆 **Sports + Data** – Analyzing cricket, football, and beyond with predictive models
-- ✍️ **Knowledge sharing** – Creating tutorials that fast-track learning for aspiring analysts
-- 🚀 **Continuous growth** – Always experimenting, always improving
+- 📊 **Business Impact** – Building solutions that drive revenue and reduce costs
+- 🎯 **Strategic Insights** – Turning complex data into executive-ready recommendations
+- 📈 **Dashboard Excellence** – Creating Power BI reports that tell compelling stories
+- 🚀 **Continuous Learning** – Always refining skills to deliver more value
 
 ---
 
@@ -44,7 +44,7 @@ mohsin = {
 <tr>
 <td width="50%">
 
-### 📈 Business Intelligence
+### 📊 Business Intelligence
 - Built **20+ executive dashboards** in Power BI & Tableau
 - Automated reporting workflows saving **15+ hours/week**
 - Delivered insights that drove **measurable business outcomes**
@@ -52,28 +52,28 @@ mohsin = {
 </td>
 <td width="50%">
 
-### 🏏 Sports Analytics
-- Created **match prediction models** with 75%+ accuracy
-- Analyzed player performance metrics across formats
-- Published data-driven sports content for enthusiasts
+### 📈 Data Analysis
+- Performed **customer lifecycle & cohort analysis**
+- Identified **profit leakage** through unit economics analysis
+- Created **retention & churn models** with actionable insights
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔄 Data Engineering
-- Designed ETL pipelines processing **millions of records**
-- Optimized SQL queries for **3x faster execution**
-- Built automated data quality checks
+### 🎯 Business Analysis
+- Translated business requirements into **data solutions**
+- Conducted **root cause analysis** for operational issues
+- Delivered **KPI tracking systems** for decision-makers
 
 </td>
 <td width="50%">
 
-### 📚 Content Creation
-- Teaching **SQL, Python, Power BI** to 1000+ learners
-- Writing tutorials that simplify complex concepts
-- Sharing real-world case studies & project templates
+### 🏏 Sports Analytics
+- Created **match prediction models** with 75%+ accuracy
+- Analyzed player performance metrics across formats
+- Published data-driven sports insights
 
 </td>
 </tr>
@@ -88,7 +88,6 @@ mohsin = {
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -97,20 +96,19 @@ mohsin = {
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Data Science & ML
+### Data Analysis & Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -148,23 +146,23 @@ mohsin = {
 
 ---
 
-## 📝 Latest Content & Articles
+## 🤝 Let's Collaborate
 
-- 📌 **[SQL Window Functions Explained](https://example.com)** - Master advanced SQL techniques
-- 📌 **[Building Your First Power BI Dashboard](https://example.com)** - Step-by-step guide
-- 📌 **[Data Cleaning Best Practices](https://example.com)** - From messy to pristine
-- 📌 **[Sports Analytics Case Study](https://example.com)** - Predicting IPL champions
+### 💼 Currently Seeking Opportunities
+
+I'm actively looking for roles in:
+- **Data Analyst** positions
+- **Business Intelligence Analyst/Developer** roles
+- **Power BI Developer** opportunities
+- **Business Analyst** positions
 
 ---
 
-## 🤝 Let's Collaborate
-
-I'm always open to:
-- 💼 **Freelance projects** in data analytics and BI
+### Open To:
+- 💼 **Full-time opportunities** in data analytics and BI
 - 🎓 **Mentoring** aspiring data professionals
-- 🔬 **Open-source contributions** in data science
 - 🏏 **Sports analytics collaborations**
-- 📊 **Data visualization challenges**
+- 📊 **Freelance BI projects**
 
 <div align="center">
 
