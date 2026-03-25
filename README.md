@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Building+Dashboards+that+Drive+Decisions;Business+Intelligence+%7C+Power+BI+%7C+SQL;Turning+Complex+Data+into+Clear+Strategy" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohsin-raza-portfolio.vise.page/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohsinR11&color=2E9EF7&style=flat-square)
@@ -166,7 +165,6 @@ I'm actively looking for roles in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinraza-data/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohsin-raza-portfolio.vise.page/)
 
 ---
 
