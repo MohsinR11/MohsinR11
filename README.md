@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Projects-View_Work-000000?style=for-the-badge&logo=github)](https://github.com/MohsinR11)
+[![Portfolio](https://img.shields.io/badge/Projects-View_Work-000000?style=for-the-badge&logo=github)](https://github.com/MohsinR11?tab=repositories)
 
 </div>
 
